@@ -1,4 +1,4 @@
-# Analise_risco_credito
+# Analise exploratoria de risco de crédito
 
 O objetivo desse material é realizar uma análise descritiva para identificar os clientes com maior probabilidade de default(risco de crédito)
 
